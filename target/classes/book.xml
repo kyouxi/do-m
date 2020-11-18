@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book category="children">
+    book1
+    <title id="hello">
+        title1
+    </title>
+    book2
+</book>
